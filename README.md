@@ -6,4 +6,4 @@ This research project is in fulfilment of the requirements to graduate as a Holb
 
 ## PROJECT TYPE
 The website is of a single page architecture (SPA).
-![alt portfolio-project2](https://i.postimg.cc/L6x7g6Dm/portfolio-project2-spa.png)
+![alt spa](https://i.postimg.cc/L6x7g6Dm/portfolio-project2-spa.png)
