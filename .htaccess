@@ -5,6 +5,7 @@ RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
 #RewriteRule ^(.*)$ https://www.andrew-godwin.com/$1 [R,L]
 
-RewriteCond %{SCRIPT_FILENAME} !-d
-RewriteCond %{SCRIPT_FILENAME} !-f
-RewriteRule ^(.*)$ html/index.php?usrnme=$1 [NC]
+# For .php & .html URL's:
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
