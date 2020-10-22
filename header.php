@@ -6,9 +6,6 @@
 <link rel="canonical" href="index.php" />
 <link rel="shortcut icon" href="engine_room/images/favicon.png">
 <title>About Me &#8211; Andrew Godwin</title>
-<link rel='dns-prefetch' href='http://maxcdn.bootstrapcdn.com/' />
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='stylesheet' id='wp-block-library-css'  href='engine_room/css/style.min.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='engine_room/css/styles.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='sb_instagram_styles-css'  href='engine_room/css/sb-instagram.min.css?ver=1.12.1' type='text/css' media='all' />
@@ -571,7 +568,7 @@
 <link rel='stylesheet' id='simple-line-icons-css'  href='engine_room/css/simple-line-icons.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='js-composer-css'  href='engine_room/css/js_composer.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='niva-gutenberg-frontend-css'  href='engine_room/css/gutenberg-frontend.css?ver=5.1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='niva-fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A300%2Cregular%2C500%2C600%2C700%2Clatin-ext%2Clatin%2Cdevanagari&amp;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='niva-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A300%2Cregular%2C500%2C600%2C700%2Clatin-ext%2Clatin%2Cdevanagari&amp;ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='engine_room/css/js_composer.min.css?ver=5.7' type='text/css' media='all' />
 <link rel='stylesheet' id='redux-google-fonts-redux_demo-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A600%2C400&amp;ver=1563713854' type='text/css' media='all' />
 <script type='text/javascript' src='engine_room/js/jquery.js?ver=1.12.4'></script>
